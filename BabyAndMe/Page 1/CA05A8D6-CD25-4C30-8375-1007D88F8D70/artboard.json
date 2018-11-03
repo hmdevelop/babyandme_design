@@ -1,0 +1,99 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "CA05A8D6-CD25-4C30-8375-1007D88F8D70",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 826,
+    "width": 320,
+    "x": 522,
+    "y": 133
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "AB38F53D-957E-48EF-B6FF-31F8D68D2A53"
+    },
+    {
+      "class": "group",
+      "id": "EAFE9B03-EE83-4626-802C-4EA784B488B4"
+    },
+    {
+      "class": "group",
+      "id": "020D8DC4-1AB3-4450-8BF0-8D3302DC4B2E"
+    },
+    {
+      "class": "group",
+      "id": "55323ECE-C6C4-4E1A-A2AD-67EAE0C607A3"
+    },
+    {
+      "class": "text",
+      "id": "D26A1B48-1430-4D9E-9D44-A8EC479000CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1A9A202-73A0-466B-B39F-E571C6FA3FF6"
+    }
+  ],
+  "name": "bebegimVeBenPage",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

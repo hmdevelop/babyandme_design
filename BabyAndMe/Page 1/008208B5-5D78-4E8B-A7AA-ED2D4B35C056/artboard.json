@@ -1,0 +1,111 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "008208B5-5D78-4E8B-A7AA-ED2D4B35C056",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 826,
+    "width": 320,
+    "x": 522,
+    "y": 2120
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "BD22B8F2-0E4C-4438-970D-B18620C2E6B6"
+    },
+    {
+      "class": "group",
+      "id": "52E96C48-0C14-4D43-9565-BA2D491994BB"
+    },
+    {
+      "class": "text",
+      "id": "61F185D3-8FC2-4D85-9B62-8B8141088BF6"
+    },
+    {
+      "class": "group",
+      "id": "037A4B52-47B3-438E-A8BB-65EDD6A93B62"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "523EEC8E-A87A-40EA-8FAC-95AEBFFCE847"
+    },
+    {
+      "class": "text",
+      "id": "BAEE51DA-708A-483A-8734-DA9DE76E36A3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F119728F-0395-47B7-BD32-0EA629597639"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D9875EF3-37EE-4F56-AC39-45C1BE816AE9"
+    },
+    {
+      "class": "text",
+      "id": "FEBDBB43-0AD3-41E8-B177-0185A464FF88"
+    }
+  ],
+  "name": "homePage Copy 7",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

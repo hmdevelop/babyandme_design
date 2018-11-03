@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "7B634101-E5B3-4F5A-AAFF-6971E78DC496",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 134,
+    "width": 320,
+    "x": 0,
+    "y": 299
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "E6C5DD2A-FAB0-4B00-87C1-400F08FAAC06"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BE96DAE2-D122-4653-9BEE-0BA9316FFA75"
+    },
+    {
+      "class": "text",
+      "id": "BDFF857E-0D3A-4FA9-A07F-C9F93613AD3B"
+    }
+  ],
+  "name": "button3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
